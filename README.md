@@ -19,13 +19,13 @@ This project is a simple QR code generator built using Python and Tkinter GUI li
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mahmudumar/QR-Code-Generator.git
+   git clone https://github.com/Mahmudumar/Qrcode.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd QR-Code-Generator
+   cd Qrcode
    ```
 
 3. Install the required dependencies:
@@ -39,7 +39,7 @@ This project is a simple QR code generator built using Python and Tkinter GUI li
 1. Run the application:
 
    ```bash
-   python qr_generator.py
+   python app.py
    ```
 
 2. Enter the text for which you want to generate a QR code.
