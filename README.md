@@ -1,6 +1,3 @@
-Creating a README for your GitHub repository is essential for providing information about your project to potential users and contributors. Below is a template you can use for your QR code generator project:
-
----
 
 # QR Code Generator
 
@@ -21,7 +18,7 @@ This project is a simple QR code generator built using Python and Tkinter GUI li
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/QR-Code-Generator.git
+   git clone https://github.com/Mahmudumar/QR-Code-Generator.git
    ```
 
 2. Navigate to the project directory:
