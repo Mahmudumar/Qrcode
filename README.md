@@ -53,7 +53,7 @@ This project is a simple QR code generator built using Python and Tkinter GUI li
 ## Demo
 Here's a quick demo of the app.
 
-![logo](https://github.com/Mahmudumar/Qrcode/assets/90246975/5bc4ca7c-9c57-49f3-84d3-48621ab2ed09)
+[![logo](https://github.com/Mahmudumar/Qrcode/assets/90246975/5bc4ca7c-9c57-49f3-84d3-48621ab2ed09)](https://youtu.be/zV87OKy01Sc?feature=shared)
 
 
 ## Support my projects
