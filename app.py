@@ -74,7 +74,7 @@ class QRGenerator:
         except Exception as e:
             messagebox.showerror("Error", str(e))
     def save(self):
-        file = filedialog.asksaveasfilename(filetypes=[("Image files", (".png", ".jpg")), ("All files", "")])
+        file = filedialog.asksaveasfilename(filetypes=[("Image files", ("*.png", "*.jpg")), ("All files", "*.*")])
         if file:
             self.qr_code.save(file)
             messagebox.showinfo('File Saved', 'Your QR code has been saved successfully')

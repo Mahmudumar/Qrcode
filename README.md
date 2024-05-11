@@ -1,8 +1,7 @@
 
 # QR Code Generator
+
 ![Screenshot (53)](https://github.com/Mahmudumar/Qrcode/assets/90246975/69148bcc-9f83-40e2-b650-8c47955c5156)
-
-
 
 ## Description
 
@@ -54,7 +53,6 @@ This project is a simple QR code generator built using Python and Tkinter GUI li
 ## Support my projects
 
 [Support my projects](https://paystack.com/pay/supportMahmud) so that I can make more engaging and meaningful solutions for everyone. Thank you so much for your support.
-
 
 ## Contributing
 
